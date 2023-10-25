@@ -1,5 +1,7 @@
 # ImpulseOS
 
+I am first following os-tutorial by cfenollosa to learn how to build an os, then I am going to attempt to write one myself
+
 On a mac, install Homebrew and then 'brew install qemu nasm'
 
 To compile: nasm -f bin boot_sect.asm -o boot_sect.bin
